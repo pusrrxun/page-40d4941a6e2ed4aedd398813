@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "970360da1d8c8e0628780ce1",
+  "owner": "pusrrxun",
+  "repo": "page-40d4941a6e2ed4aedd398813",
+  "title": "晴转多云(Sunny)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "40d4941a6e2ed4aedd398813",
+      "a": "晴转多云(Sunny)",
+      "b": "2027最新官网",
+      "entity": "晴转多云(Sunny)",
+      "brand": "晴转多云(Sunny)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bb2eea9ca63a938a807ce1bd13fbf2f4cec99bb240ec332d40c98a09af1c3a35",
+      "content": {
+        "primary_entity": "晴转多云(Sunny)",
+        "keyword1": "晴转多云(Sunny)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，晴转多云(Sunny) 提供多种订阅档位，从基础版每月 100GB 流量到团队版每月 1000GB 流量，适配个人到小型团队的不同需要。客户端支持按设备系统选择，订阅配置完成后即可在路由器、电脑或手机上使用。选购时可以先确认设备数量与月流量需求，再对比年付方案节省长期成本。",
+          "AI_HERO_SUBTITLE": "晴转多云(Sunny) 多设备订阅选择",
+          "AI_HERO_INTRO": "晴转多云(Sunny) 是一款面向海外网络访问的加速器品牌，提供基础版、旗舰版与团队版三档订阅。用户可根据设备数量、月流量与线路偏好选择，并通过不同平台的客户端导入订阅。",
+          "AI_VISUAL_TITLE": "晴转多云(Sunny) 灵活订阅",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按设备数量灵活选择",
+          "AI_HIGHLIGHT_3": "年付方案降低长期成本",
+          "AI_FEATURES_TITLE": "订阅与设备要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和付费周期三个角度比较套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB 极速流量。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "支持月付，也可按年付，基础版年付 ¥150 起。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备系统对应不同订阅客户端，请根据实际平台选择合适版本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合多设备与流媒体，团队版面向高流量与多人协作。",
+          "AI_GUIDE_TITLE": "三步选择与配置",
+          "AI_GUIDE_INTRO": "先确认需求，再查看适配要求，最后按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版或团队版中选出合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本与客户端类型，确保订阅可在对应平台导入。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的文档说明，导入订阅链接并完成连接设置。",
+          "AI_CLOSING_TITLE": "晴转多云(Sunny) 订阅选择",
+          "AI_CLOSING_TEXT": "先确定设备数量与流量需求，再对比三档套餐后开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "晴转多云(Sunny) 三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，并有 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，可定制路由。",
+          "AI_FAQ_QUESTION_2": "按年付比按月付省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，约等于十个月月付费用；旗舰版年付 ¥350、团队版年付 ¥850，同样比十二个月月付合计更少。",
+          "AI_FAQ_QUESTION_3": "设备数量超限会怎样？",
+          "AI_FAQ_ANSWER_3": "同时在线设备超过套餐上限时，新设备可能无法连接。可在客户端中退出不用的设备，或升级到支持更多设备的档位。",
+          "AI_FAQ_QUESTION_4": "怎么把订阅导入客户端？",
+          "AI_FAQ_ANSWER_4": "先按设备选择对应客户端，安装后在订阅或配置页面粘贴订阅信息并保存，然后启动连接。不同客户端操作位置略有差异。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 20 台设备支持和每月 1000GB 流量，适合小型团队多人共用，并可按需使用定制路由和专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqw7o176c.com",
+    "host": "xn--9kqw7o176c.com"
+  },
+  "file_hashes": {
+    "index.html": "0649e88d343d8481d827372205262b6894539b12c1e11768799009711c0f1ef6",
+    "sitemap.xml": "1182f3f57ccc53d325e7f484ee1030299eb4445f5fcc130ac14224862970c314",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d2ba5ae04eee293be0bfe6217210242be7eb79bf0346fdd0b395b082a047e74d",
+    "robots.txt": "923562cefef705d8194248faf7ef6776055986b4ca3b37efcccb7e593c581de5",
+    "a059ab48d721653d657396e6e1c819e6.txt": "8049a973e4b1175d98424f1bba207ccb1a882bed2c0696cb14cf2ff57793ef73"
+  },
+  "revision": "3dbc288e22694e772750d7c8c1b33f1799b41290bcad5c693bb5d5626133c9a4"
+}
